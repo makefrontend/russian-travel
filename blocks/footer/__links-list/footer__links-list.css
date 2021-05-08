@@ -1,0 +1,14 @@
+.footer__links-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+}
+
+@media screen and (min-width: 768px) {
+    .footer__links-list {
+        flex-direction: row;
+    }
+}
