@@ -1,9 +1,6 @@
-@import url("./__links/footer__links.css");
-@import url("./__links-list/footer__links-list.css");
-@import url("./__link-element/footer__link-element.css");
-@import url("./__link/footer__link.css");
-@import url("./__copyright/footer__copyright.css");
-
+/*Спасибо за замечание! 
+Пробовал раскидать стили по файлам и не удалил свои тесты:((
+Нужно прекращать работать ночью.*/
 .footer {
     display: flex;
     flex-direction: column;
